@@ -1,0 +1,1037 @@
+[
+  {"code": "100", "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/100SSIR-1.pdf"},
+{"code": "101", "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/101SSIR-1.pdf"},
+{"code": "102", "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/102SSIR-1.pdf"},
+{"code": "103", "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/103SSIR-1.pdf"},
+{"code": "104", "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/104SSIR-1.pdf"},
+{"code": "105", "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/105SSIR-1.pdf"},
+{"code": "106", "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/106SSIR-1.pdf"},
+{"code": "107", "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/107SSIR-1.pdf"},
+{"code": "108", "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/108SSIR-1.pdf"},
+{"code": "109", "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/109SSIR-1.pdf"},
+{"code": "110", "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/110SSIR-1.pdf"},
+{"code": "111", "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/111SSIR-1.pdf"},
+{"code": "112", "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/112SSIR-1.pdf"},
+{"code": "113", "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/113SSIR-1.pdf"},
+{"code": "114", "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/114SSIR-1.pdf"},
+{"code": "115", "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/115SSIR-1.pdf"},
+{"code": "116", "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/116SSIR-1.pdf"},
+{"code": "117", "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/117SSIR-1.pdf"},
+{"code": "118", "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/118SSIR-1.pdf"},
+{"code": "119", "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/119SSIR-1.pdf"},
+{"code": "120", "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/120SSIR-1.pdf"},
+{"code": "121", "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/121SSIR-1.pdf"},
+{"code": "122", "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/122SSIR-1.pdf"},
+{"code": "123", "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/123SSIR-1.pdf"},
+{"code": "124", "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/124SSIR-1.pdf"},
+{"code": "125", "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/125SSIR-1.pdf"},
+{"code": "126", "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/126SSIR-1.pdf"},
+{"code": "127", "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/127SSIR-1.pdf"},
+{"code": "128", "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/128SSIR-1.pdf"},
+{"code": "129", "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/129SSIR-1.pdf"},
+{"code": "130", "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/130SSIR-1.pdf"},
+{"code": "131", "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/131SSIR-1.pdf"},
+{"code": "133", "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/133SSIR-1.pdf"},
+{"code": "134", "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/134SSIR-1.pdf"},
+{"code": "135", "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/135SSIR-1.pdf"},
+{"code": "136", "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/136SSIR-1.pdf"},
+{"code": "137", "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/137SSIR-1.pdf"},
+{"code": "138", "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/138SSIR-1.pdf"},
+{"code": "139", "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/139SSIR-1.pdf"},
+{"code": "140", "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/140SSIR-1.pdf"},
+{"code": "141", "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/141SSIR-1.pdf"},
+{"code": "142", "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/142SSIR-1.pdf"},
+{"code": "143", "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/143SSIR-1.pdf"},
+{"code": "145", "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/145SSIR-1.pdf"},
+{"code": "146", "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/146SSIR-1.pdf"},
+{"code": "147", "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/147SSIR-1.pdf"},
+{"code": "148", "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/148SSIR-1.pdf"},
+  {
+    "code": "149",
+    "url": false
+  },
+  {
+    "code": "150",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/150SSIR-1.pdf"
+  },
+  {
+    "code": "152",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/152SSIR-1.pdf"
+  },
+  {
+    "code": "153",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/153SSIR-1.pdf"
+  },
+  {
+    "code": "154",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/154SSIR-1.pdf"
+  },
+  {
+    "code": "155",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/155SSIR-1.pdf"
+  },
+  {
+    "code": "200",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/200SSIR-2.pdf"
+  },
+  {
+    "code": "201",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/201SSIR-2.pdf"
+  },
+  {
+    "code": "202",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/202SSIR-2.pdf"
+  },
+  {
+    "code": "203",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/203SSIR-2.pdf"
+  },
+  {
+    "code": "204",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/204SSIR-2.pdf"
+  },
+  {
+    "code": "206",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/206SSIR-2.pdf"
+  },
+  {
+    "code": "207",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/207SSIR-2.pdf"
+  },
+  {
+    "code": "208",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/208SSIR-2.pdf"
+  },
+  {
+    "code": "209",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/209SSIR-2.pdf"
+  },
+  {
+    "code": "210",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/210SSIR-2.pdf"
+  },
+  {
+    "code": "211",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/211SSIR-2.pdf"
+  },
+  {
+    "code": "212",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/212SSIR-2.pdf"
+  },
+  {
+    "code": "214",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/214SSIR-2.pdf"
+  },
+  {
+    "code": "215",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/215SSIR-2.pdf"
+  },
+  {
+    "code": "216",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/216SSIR-2.pdf"
+  },
+  {
+    "code": "217",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/217SSIR-2.pdf"
+  },
+  {
+    "code": "218",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/218SSIR-2.pdf"
+  },
+  {
+    "code": "219",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/219SSIR-2.pdf"
+  },
+  {
+    "code": "220",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/220SSIR-2.pdf"
+  },
+  {
+    "code": "221",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/221SSIR-2.pdf"
+  },
+  {
+    "code": "222",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/222SSIR-2.pdf"
+  },
+  {
+    "code": "223",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/223SSIR-2.pdf"
+  },
+  {
+    "code": "224",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/224SSIR-2.pdf"
+  },
+  {
+    "code": "225",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/225SSIR-2.pdf"
+  },
+  {
+    "code": "226",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/226SSIR-2.pdf"
+  },
+  {
+    "code": "227",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/227SSIR-2.pdf"
+  },
+  {
+    "code": "228",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/228SSIR-2.pdf"
+  },
+  {
+    "code": "229",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/229SSIR-2.pdf"
+  },
+  {
+    "code": "230",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/230SSIR-2.pdf"
+  },
+  {
+    "code": "231",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/231SSIR-2.pdf"
+  },
+  {
+    "code": "232",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/232SSIR-2.pdf"
+  },
+  {
+    "code": "233",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/233SSIR-2.pdf"
+  },
+  {
+    "code": "234",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/234SSIR-2.pdf"
+  },
+  {
+    "code": "235",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/235SSIR-2.pdf"
+  },
+  {
+    "code": "236",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/236SSIR-2.pdf"
+  },
+  {
+    "code": "237",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/237SSIR-2.pdf"
+  },
+  {
+    "code": "238",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/238SSIR-2.pdf"
+  },
+  {
+    "code": "239",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/239SSIR-2.pdf"
+  },
+  {
+    "code": "240",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/240SSIR-2.pdf"
+  },
+  {
+    "code": "241",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/241SSIR-2.pdf"
+  },
+  {
+    "code": "242",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/242SSIR-2.pdf"
+  },
+  {
+    "code": "243",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/243SSIR-2.pdf"
+  },
+  {
+    "code": "250",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/250SSIR-3.pdf"
+  },
+  {
+    "code": "251",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/251SSIR-3.pdf"
+  },
+  {
+    "code": "252",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/252SSIR-3.pdf"
+  },
+  {
+    "code": "253",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/253SSIR-3.pdf"
+  },
+  {
+    "code": "254",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/254SSIR-3.pdf"
+  },
+  {
+    "code": "255",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/255SSIR-3.pdf"
+  },
+  {
+    "code": "256",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/256SSIR-3.pdf"
+  },
+  {
+    "code": "257",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/257SSIR-3.pdf"
+  },
+  {
+    "code": "258",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/258SSIR-3.pdf"
+  },
+  {
+    "code": "259",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/259SSIR-3.pdf"
+  },
+  {
+    "code": "260",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/260SSIR-3.pdf"
+  },
+  {
+    "code": "261",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/261SSIR-3.pdf"
+  },
+  {
+    "code": "262",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/262SSIR-3.pdf"
+  },
+  {
+    "code": "263",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/263SSIR-3.pdf"
+  },
+  {
+    "code": "264",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/264SSIR-3.pdf"
+  },
+  {
+    "code": "265",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/265SSIR-3.pdf"
+  },
+  {
+    "code": "266",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/266SSIR-3.pdf"
+  },
+  {
+    "code": "267",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/267SSIR-3.pdf"
+  },
+  {
+    "code": "268",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/268SSIR-3.pdf"
+  },
+  {
+    "code": "269",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/269SSIR-3.pdf"
+  },
+  {
+    "code": "270",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/270SSIR-3.pdf"
+  },
+  {
+    "code": "271",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/271SSIR-3.pdf"
+  },
+  {
+    "code": "272",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/272SSIR-3.pdf"
+  },
+  {
+    "code": "273",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/273SSIR-3.pdf"
+  },
+  {
+    "code": "274",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/274SSIR-3.pdf"
+  },
+  {
+    "code": "275",
+    "url": false
+  },
+  {
+    "code": "276",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/276SSIR-3.pdf"
+  },
+  {
+    "code": "277",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/277SSIR-3.pdf"
+  },
+  {
+    "code": "278",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/278SSIR-3.pdf"
+  },
+  {
+    "code": "279",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/279SSIR-3.pdf"
+  },
+  {
+    "code": "280",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/280SSIR-3.pdf"
+  },
+  {
+    "code": "281",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/281SSIR-3.pdf"
+  },
+  {
+    "code": "282",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/282SSIR-3.pdf"
+  },
+  {
+    "code": "283",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/283SSIR-3.pdf"
+  },
+  {
+    "code": "285",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/285SSIR-3.pdf"
+  },
+  {
+    "code": "286",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/286SSIR-3.pdf"
+  },
+  {
+    "code": "287",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/287SSIR-3.pdf"
+  },
+  {
+    "code": "288",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/288SSIR-3.pdf"
+  },
+  {
+    "code": "290",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/290SSIR-3.pdf"
+  },
+  {
+    "code": "291",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/291SSIR-3.pdf"
+  },
+  {
+    "code": "292",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/292SSIR-3.pdf"
+  },
+  {
+    "code": "293",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/293SSIR-3.pdf"
+  },
+  {
+    "code": "294",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/294SSIR-3.pdf"
+  },
+  {
+    "code": "296",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/296SSIR-3.pdf"
+  },
+  {
+    "code": "297",
+    "url": false
+  },
+  {
+    "code": "300",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/300SSIR-4.pdf"
+  },
+  {
+    "code": "301",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/301SSIR-4.pdf"
+  },
+  {
+    "code": "302",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/302SSIR-4.pdf"
+  },
+  {
+    "code": "303",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/303SSIR-4.pdf"
+  },
+  {
+    "code": "304",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/304SSIR-4.pdf"
+  },
+  {
+    "code": "305",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/305SSIR-4.pdf"
+  },
+  {
+    "code": "306",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/306SSIR-4.pdf"
+  },
+  {
+    "code": "307",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/307SSIR-4.pdf"
+  },
+  {
+    "code": "308",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/308SSIR-4.pdf"
+  },
+  {
+    "code": "309",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/309SSIR-4.pdf"
+  },
+  {
+    "code": "310",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/310SSIR-4.pdf"
+  },
+  {
+    "code": "311",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/311SSIR-4.pdf"
+  },
+  {
+    "code": "312",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/312SSIR-4.pdf"
+  },
+  {
+    "code": "313",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/313SSIR-4.pdf"
+  },
+  {
+    "code": "314",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/314SSIR-4.pdf"
+  },
+  {
+    "code": "315",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/315SSIR-4.pdf"
+  },
+  {
+    "code": "317",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/317SSIR-4.pdf"
+  },
+  {
+    "code": "318",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/318SSIR-4.pdf"
+  },
+  {
+    "code": "319",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/319SSIR-4.pdf"
+  },
+  {
+    "code": "320",
+    "url": false
+  },
+  {
+    "code": "321",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/321SSIR-4.pdf"
+  },
+  {
+    "code": "322",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/322SSIR-4.pdf"
+  },
+  {
+    "code": "323",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/323SSIR-4.pdf"
+  },
+  {
+    "code": "324",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/324SSIR-4.pdf"
+  },
+  {
+    "code": "325",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/325SSIR-4.pdf"
+  },
+  {
+    "code": "326",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/326SSIR-4.pdf"
+  },
+  {
+    "code": "327",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/327SSIR-4.pdf"
+  },
+  {
+    "code": "330",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/330SSIR-4.pdf"
+  },
+  {
+    "code": "331",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/331SSIR-4.pdf"
+  },
+  {
+    "code": "335",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/335SSIR-4.pdf"
+  },
+  {
+    "code": "351",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/351SSIR-5.pdf"
+  },
+  {
+    "code": "352",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/352SSIR-5.pdf"
+  },
+  {
+    "code": "353",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/353SSIR-5.pdf"
+  },
+  {
+    "code": "354",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/354SSIR-5.pdf"
+  },
+  {
+    "code": "355",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/355SSIR-5.pdf"
+  },
+  {
+    "code": "356",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/356SSIR-5.pdf"
+  },
+  {
+    "code": "357",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/357SSIR-5.pdf"
+  },
+  {
+    "code": "358",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/358SSIR-5.pdf"
+  },
+  {
+    "code": "359",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/359SSIR-5.pdf"
+  },
+  {
+    "code": "360",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/360SSIR-5.pdf"
+  },
+  {
+    "code": "361",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/361SSIR-5.pdf"
+  },
+  {
+    "code": "363",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/363SSIR-5.pdf"
+  },
+  {
+    "code": "365",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/365SSIR-5.pdf"
+  },
+  {
+    "code": "366",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/366SSIR-5.pdf"
+  },
+  {
+    "code": "367",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/367SSIR-5.pdf"
+  },
+  {
+    "code": "368",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/368SSIR-5.pdf"
+  },
+  {
+    "code": "369",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/369SSIR-5.pdf"
+  },
+  {
+    "code": "370",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/370SSIR-5.pdf"
+  },
+  {
+    "code": "371",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/371SSIR-5.pdf"
+  },
+  {
+    "code": "372",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/372SSIR-5.pdf"
+  },
+  {
+    "code": "373",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/373SSIR-5.pdf"
+  },
+  {
+    "code": "374",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/374SSIR-5.pdf"
+  },
+  {
+    "code": "375",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/375SSIR-5.pdf"
+  },
+  {
+    "code": "376",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/376SSIR-5.pdf"
+  },
+  {
+    "code": "377",
+    "url": false
+  },
+  {
+    "code": "378",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/378SSIR-5.pdf"
+  },
+  {
+    "code": "379",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/379SSIR-5.pdf"
+  },
+  {
+    "code": "380",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/380SSIR-5.pdf"
+  },
+  {
+    "code": "381",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/381SSIR-5.pdf"
+  },
+  {
+    "code": "382",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/382SSIR-5.pdf"
+  },
+  {
+    "code": "383",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/383SSIR-5.pdf"
+  },
+  {
+    "code": "384",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/384SSIR-5.pdf"
+  },
+  {
+    "code": "385",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/385SSIR-5.pdf"
+  },
+  {
+    "code": "386",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/386SSIR-5.pdf"
+  },
+  {
+    "code": "387",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/387SSIR-5.pdf"
+  },
+  {
+    "code": "388",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/388SSIR-5.pdf"
+  },
+  {
+    "code": "389",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/389SSIR-5.pdf"
+  },
+  {
+    "code": "390",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/390SSIR-5.pdf"
+  },
+  {
+    "code": "391",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/391SSIR-5.pdf"
+  },
+  {
+    "code": "392",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/392SSIR-5.pdf"
+  },
+  {
+    "code": "393",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/393SSIR-5.pdf"
+  },
+  {
+    "code": "394",
+    "url": false
+  },
+  {
+    "code": "395",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/395SSIR-5.pdf"
+  },
+  {
+    "code": "396",
+    "url": false
+  },
+  {
+    "code": "397",
+    "url": false
+  },
+  {
+    "code": "398",
+    "url": false
+  },
+  {
+    "code": "399",
+    "url": false
+  },
+  {
+    "code": "400",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/400SSIR-6.pdf"
+  },
+  {
+    "code": "401",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/401SSIR-6.pdf"
+  },
+  {
+    "code": "402",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/402SSIR-6.pdf"
+  },
+  {
+    "code": "404",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/404SSIR-6.pdf"
+  },
+  {
+    "code": "405",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/405SSIR-6.pdf"
+  },
+  {
+    "code": "406",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/406SSIR-6.pdf"
+  },
+  {
+    "code": "407",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/407SSIR-6.pdf"
+  },
+  {
+    "code": "409",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/409SSIR-6.pdf"
+  },
+  {
+    "code": "410",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/410SSIR-6.pdf"
+  },
+  {
+    "code": "411",
+    "url": false
+  },
+  {
+    "code": "412",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/412SSIR-6.pdf"
+  },
+  {
+    "code": "413",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/413SSIR-6.pdf"
+  },
+  {
+    "code": "414",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/414SSIR-6.pdf"
+  },
+  {
+    "code": "415",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/415SSIR-6.pdf"
+  },
+  {
+    "code": "416",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/416SSIR-6.pdf"
+  },
+  {
+    "code": "417",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/417SSIR-6.pdf"
+  },
+  {
+    "code": "418",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/418SSIR-6.pdf"
+  },
+  {
+    "code": "419",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/419SSIR-6.pdf"
+  },
+  {
+    "code": "420",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/420SSIR-6.pdf"
+  },
+  {
+    "code": "421",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/421SSIR-6.pdf"
+  },
+  {
+    "code": "422",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/422SSIR-6.pdf"
+  },
+  {
+    "code": "424",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/424SSIR-6.pdf"
+  },
+  {
+    "code": "425",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/425SSIR-6.pdf"
+  },
+  {
+    "code": "426",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/426SSIR-6.pdf"
+  },
+  {
+    "code": "428",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/428SSIR-6.pdf"
+  },
+  {
+    "code": "429",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/429SSIR-6.pdf"
+  },
+  {
+    "code": "430",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/430SSIR-6.pdf"
+  },
+  {
+    "code": "431",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/431SSIR-6.pdf"
+  },
+  {
+    "code": "433",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/433SSIR-6.pdf"
+  },
+  {
+    "code": "434",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/434SSIR-6.pdf"
+  },
+  {
+    "code": "435",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/435SSIR-6.pdf"
+  },
+  {
+    "code": "436",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/436SSIR-6.pdf"
+  },
+  {
+    "code": "447",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/447SSIR-7.pdf"
+  },
+  {
+    "code": "448",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/448SSIR-7.pdf"
+  },
+  {
+    "code": "451",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/451SSIR-7.pdf"
+  },
+  {
+    "code": "452",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/452SSIR-7.pdf"
+  },
+  {
+    "code": "453",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/453SSIR-7.pdf"
+  },
+  {
+    "code": "454",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/454SSIR-7.pdf"
+  },
+  {
+    "code": "455",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/455SSIR-7.pdf"
+  },
+  {
+    "code": "456",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/456SSIR-7.pdf"
+  },
+  {
+    "code": "457",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/457SSIR-7.pdf"
+  },
+  {
+    "code": "458",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/458SSIR-7.pdf"
+  },
+  {
+    "code": "459",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/459SSIR-7.pdf"
+  },
+  {
+    "code": "460",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/460SSIR-7.pdf"
+  },
+  {
+    "code": "461",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/461SSIR-7.pdf"
+  },
+  {
+    "code": "462",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/462SSIR-7.pdf"
+  },
+  {
+    "code": "463",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/463SSIR-7.pdf"
+  },
+  {
+    "code": "464",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/464SSIR-7.pdf"
+  },
+  {
+    "code": "466",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/466SSIR-C.pdf"
+  },
+  {
+    "code": "470",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/470SSIR-1.pdf"
+  },
+  {
+    "code": "475",
+    "url": "https://arch-prod-reports-repository.s3-us-west-1.amazonaws.com/ssir/2020/475SSIR-4.pdf"
+  },
+  {
+    "code": "540",
+    "url": false
+  },
+  {
+    "code": "541",
+    "url": false
+  },
+  {
+    "code": "543",
+    "url": false
+  },
+  {
+    "code": "544",
+    "url": false
+  },
+  {
+    "code": "545",
+    "url": false
+  },
+  {
+    "code": "546",
+    "url": false
+  },
+  {
+    "code": "547",
+    "url": false
+  },
+  {
+    "code": "548",
+    "url": false
+  },
+  {
+    "code": "549",
+    "url": false
+  },
+  {
+    "code": "550",
+    "url": false
+  },
+  {
+    "code": "551",
+    "url": false
+  },
+  {
+    "code": "553",
+    "url": false
+  },
+  {
+    "code": "554",
+    "url": false
+  },
+  {
+    "code": "555",
+    "url": false
+  },
+  {
+    "code": "556",
+    "url": false
+  },
+  {
+    "code": "557",
+    "url": false
+  },
+  {
+    "code": "558",
+    "url": false
+  },
+  {
+    "code": "560",
+    "url": false
+  },
+  {
+    "code": "561",
+    "url": false
+  },
+  {
+    "code": "562",
+    "url": false
+  },
+  {
+    "code": "563",
+    "url": false
+  },
+  {
+    "code": "564",
+    "url": false
+  },
+  {
+    "code": "565",
+    "url": false
+  },
+  {
+    "code": "566",
+    "url": false
+  },
+  {
+    "code": "567",
+    "url": false
+  },
+  {
+    "code": "568",
+    "url": false
+  }
+]
